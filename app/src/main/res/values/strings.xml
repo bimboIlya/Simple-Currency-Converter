@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Обмен валют</string>
+    <string name="app_name">Обмен валюты</string>
     <string name="error_message">Что-то пошло не так. Проверьте соединение с Интернетом.</string>
 </resources>
